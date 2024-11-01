@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD81C140-F7AE-49D4-832C-652B5FB1F757}|um\\um.vcxproj|C:\\Code\\visualstudio\\apart-driver\\apart-driver\\um\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD81C140-F7AE-49D4-832C-652B5FB1F757}|um\\um.vcxproj|solutionrelative:um\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31BEB12-EFE3-48F2-B682-A0CD7A6FCB1F}|km\\km.vcxproj|C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F31BEB12-EFE3-48F2-B682-A0CD7A6FCB1F}|km\\km.vcxproj|solutionrelative:km\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31BEB12-EFE3-48F2-B682-A0CD7A6FCB1F}|km\\km.vcxproj|C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\km.inf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F31BEB12-EFE3-48F2-B682-A0CD7A6FCB1F}|km\\km.vcxproj|solutionrelative:km\\km.inf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\visualstudio\\apart-driver\\apart-driver\\build\\km_intermediates\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\km_intermediates\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "km.inf",
+              "DocumentMoniker": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\km.inf",
+              "RelativeDocumentMoniker": "km\\km.inf",
+              "ToolTip": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\km.inf",
+              "RelativeToolTip": "km\\km.inf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002933|",
+              "WhenOpened": "2024-10-31T19:40:55.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inf2catOutput.log",
+              "DocumentMoniker": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\build\\km_intermediates\\inf2catOutput.log",
+              "RelativeDocumentMoniker": "build\\km_intermediates\\inf2catOutput.log",
+              "ToolTip": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\build\\km_intermediates\\inf2catOutput.log",
+              "RelativeToolTip": "build\\km_intermediates\\inf2catOutput.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T19:40:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\src\\main.cpp",
+              "RelativeDocumentMoniker": "km\\src\\main.cpp",
+              "ToolTip": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\km\\src\\main.cpp",
+              "RelativeToolTip": "km\\src\\main.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T04:15:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\um\\src\\main.cpp",
+              "RelativeDocumentMoniker": "um\\src\\main.cpp",
+              "ToolTip": "C:\\Code\\visualstudio\\apart-driver\\apart-driver\\um\\src\\main.cpp",
+              "RelativeToolTip": "um\\src\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T04:03:22.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
